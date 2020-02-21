@@ -1,2 +1,3 @@
 # hello-world
-Starting Repositoru
+Starting Repository
+I like wearing pajama pants everywhere
